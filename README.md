@@ -1,7 +1,7 @@
-<h5 align="middle">
+<h4 align="middle">
   Aya, beginner here. <br>
   Trying to learn something about web-development before my first year in university starts
-</h5>
+</h4>
 
 <!-- i dont know how to style this shit so enjoy h1-5 BASED 😶‍🌫️ -->
 
