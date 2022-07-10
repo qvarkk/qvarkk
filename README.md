@@ -3,7 +3,7 @@
   Trying to learn something about web-development before my first year in university starts
 </h5>
 
-<!-- i dont know how to style this shit ao enjoy h1 BASED 😶‍🌫️ -->
+<!-- i dont know how to style this shit so enjoy h1-5 BASED 😶‍🌫️ -->
 
 ---
 <div align="center">
