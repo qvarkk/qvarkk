@@ -21,9 +21,9 @@
   <img alt="..." src="https://github-readme-stats.vercel.app/api?username=qvarkk&hide=issues,prs&theme=swift&locale=ja">
 </p>
 
-<h3 align="center">I store everything here</h3>
+<!-- <h3 align="center">I store everything here</h3>
 
 <p align="middle">
   <img alt="..." src="https://github-readme-stats.vercel.app/api/pin/?username=qvarkk&repo=the_path&theme=swift&locale=ja">
-</p>
+</p> -->
 
