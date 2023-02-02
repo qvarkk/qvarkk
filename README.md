@@ -1,5 +1,4 @@
 <h4 align="middle">
-  Aya, beginner here. <br>
   Trying to learn something about soft-game-web3-web-development
 </h4>
 
